@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Athena Trading Inc.</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #2c3e50; color: white; text-align: center; padding: 20px; }
+        .logo { font-size: 24px; font-weight: bold; }
+        nav { background: #34495e; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-size: 18px; }
+        .container { padding: 20px; text-align: center; }
+        footer { background: #2c3e50; color: white; text-align: center; padding: 15px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">Athena Trading Inc.</div>
+        <p>Specializing in Beauty Equipment Import & Export</p>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About Us</a>
+        <a href="#products">Products</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container" id="home">
+        <h1>Welcome to Athena Trading Inc.</h1>
+        <p>Your trusted partner in beauty equipment import and export.</p>
+    </div>
+    <div class="container" id="about">
+        <h2>About Us</h2>
+        <p>Founded in 2017, Athena Trading Inc. has been providing high-quality beauty equipment to salons and businesses worldwide.</p>
+    </div>
+    <div class="container" id="products">
+        <h2>Our Products</h2>
+        <p>We offer a wide range of salon chairs, beauty tools, and cosmetic equipment.</p>
+    </div>
+    <div class="container" id="services">
+        <h2>Our Services</h2>
+        <p>We specialize in import/export solutions and consulting services for beauty businesses.</p>
+    </div>
+    <div class="container" id="contact">
+        <h2>Contact Us</h2>
+        <p>Phone: <strong>191-730-25869</strong></p>
+        <p>Email: contact@athenatrading.com</p>
+    </div>
+    <footer>
+        <p>&copy; 2025 Athena Trading Inc. All rights reserved.</p>
+    </footer>
+</body>
+</html>
